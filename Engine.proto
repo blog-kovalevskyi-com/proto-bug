@@ -1,0 +1,3 @@
+message Engine {
+  optional bool on=1;
+}
